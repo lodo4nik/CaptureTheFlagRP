@@ -10,7 +10,7 @@
 		{ "predicate": { "custom_model_data": 3 }, "model": "hats/echo_axe" },
 		{ "predicate": { "custom_model_data": 4 }, "model": "item/slime_ball" },
 		{ "predicate": { "custom_model_data": 5 }, "model": "item/golden_sword" },
-		{ "predicate": { "custom_model_data": 6 }, "model": "hats/White" },
-		{ "predicate": { "custom_model_data": 7 }, "model": "hats/Black" }
+		{ "predicate": { "custom_model_data": 6 }, "model": "hats/white" },
+		{ "predicate": { "custom_model_data": 7 }, "model": "hats/black" }
 	]
 }
