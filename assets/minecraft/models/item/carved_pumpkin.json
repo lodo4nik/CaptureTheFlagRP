@@ -6,6 +6,7 @@
 	"overrides": [
 		{ "predicate": { "custom_model_data": 0 }, "model": "block/carved_pumpkin" },
 		{ "predicate": { "custom_model_data": 1 }, "model": "hats/light_boom" },
-		{ "predicate": { "custom_model_data": 2 }, "model": "hats/cold_boom" }
+		{ "predicate": { "custom_model_data": 2 }, "model": "hats/cold_boom" },
+		{ "predicate": { "custom_model_data": 3 }, "model": "hats/hammer_punch" }
 	]
 }
