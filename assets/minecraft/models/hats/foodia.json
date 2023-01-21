@@ -1,0 +1,27 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "allium",
+	"textures": {
+		"1": "hats/foodia"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 9],
+			"to": [16, 5, 9.001],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"east": {"uv": [0, 0, 0.001, 12], "texture": "#missing"},
+				"south": {"uv": [14.98693, 0, 16, 0], "texture": "#1"},
+				"west": {"uv": [0, 0, 0.001, 12], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 0.001], "texture": "#missing"},
+				"down": {"uv": [0, 0, 16, 0.001], "texture": "#missing"}
+			}
+		}
+	],
+	"display": {
+		"fixed": {
+			"translation": [0.75, 21, -2.1],
+			"scale": [4, 4, 1]
+		}
+	}
+}

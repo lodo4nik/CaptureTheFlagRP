@@ -1,0 +1,28 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "allium",
+	"textures": {
+		"0": "hats/diamonix",
+		"particle": "hats/diamonix"
+	},
+	"elements": [
+		{
+			"from": [-7, 0, 9],
+			"to": [22, 5, 9.001],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 0.001, 12], "texture": "#missing"},
+				"south": {"uv": [14.98693, 0, 16, 0], "texture": "#0"},
+				"west": {"uv": [0, 0, 0.001, 12], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 0.001], "texture": "#missing"},
+				"down": {"uv": [0, 0, 16, 0.001], "texture": "#missing"}
+			}
+		}
+	],
+	"display": {
+		"fixed": {
+			"translation": [2.75, 23, -2.1],
+			"scale": [4, 4, 1]
+		}
+	}
+}

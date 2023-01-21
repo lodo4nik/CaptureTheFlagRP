@@ -1,0 +1,24 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/feather"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 0 }, "model": "item/feather" },
+		{ "predicate": { "custom_model_data": 1 }, "model": "hats/basket" },
+		{ "predicate": { "custom_model_data": 2 }, "model": "hats/book_single" },
+		{ "predicate": { "custom_model_data": 3 }, "model": "hats/books" },
+		{ "predicate": { "custom_model_data": 4 }, "model": "hats/jar" },
+		{ "predicate": { "custom_model_data": 5 }, "model": "hats/case" },
+		{ "predicate": { "custom_model_data": 6 }, "model": "hats/jug" },
+		{ "predicate": { "custom_model_data": 7 }, "model": "hats/lco" },
+		{ "predicate": { "custom_model_data": 8 }, "model": "hats/me" },
+		{ "predicate": { "custom_model_data": 9 }, "model": "hats/we" },
+		{ "predicate": { "custom_model_data": 10 }, "model": "hats/planks_h" },
+		{ "predicate": { "custom_model_data": 11 }, "model": "hats/planks_v" },
+		{ "predicate": { "custom_model_data": 12 }, "model": "hats/stones" },
+		{ "predicate": { "custom_model_data": 13 }, "model": "hats/chair" },
+		{ "predicate": { "custom_model_data": 14 }, "model": "hats/trash" },
+		{ "predicate": { "custom_model_data": 15 }, "model": "hats/pumpkins" }
+	]
+}
